@@ -9,7 +9,7 @@ PayUWebView is an iOS SDK wrapper around `WKWebView` to open PayU checkout and h
 Add the package dependency via Xcode:
 
 1. Go to **File → Add Package Dependencies...**
-2. Enter the repository URL: `https://github.com/payu-intrepos/PayUWebView-iOS.git`
+2. Enter the repository URL: `https://github.com/aryanjaiswal3038/PayUWebViewSDK-iOS.git`
 3. Select version **1.0.0** or later
 4. Click **Add Package**
 
@@ -17,7 +17,7 @@ Or add it to your `Package.swift`:
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/payu-intrepos/PayUWebView-iOS.git", from: "1.0.0")
+    .package(url: "https://github.com/aryanjaiswal3038/PayUWebViewSDK-iOS.git", from: "1.0.0")
 ]
 ```
 
