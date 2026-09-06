@@ -8,7 +8,7 @@ PayU checkout, handling redirect flows, and capturing success/failure/error
 callbacks in merchant iOS applications.
   DESC
   s.homepage         = 'https://github.com/aryanjaiswal3038/PayUWebViewSDK-iOS'
-  s.license          = { :type => 'MIT', :file => 'Copyright (c) 2026 PayU. All rights reserved.' }
+  s.license          = { :type => 'Proprietary', :file => 'LICENSE' }
   s.author           = { 'PayU' => 'rishabh.jaiswal@payu.in' }
   s.source           = { :git => 'https://github.com/aryanjaiswal3038/PayUWebViewSDK-iOS.git', :tag => s.version.to_s }
   s.ios.deployment_target = '13.0'
